@@ -1,0 +1,20 @@
+Package: ssurgoOnDemand
+Title: User-driven SSURGO Properties and Interpretations
+Version: 0.1.0
+Authors@R: 
+    c(person(given = "Jason",
+           family = "Nemecek",
+           role = c("aut")),
+      person(given = "Chad",
+           family = "Ferguson",
+           role = c("aut")),
+      person(given = "Andrew",
+           family = "Brown",
+           email = "andrew.g.brown@usda.gov",
+           role = c("cre","ctb")))
+Description: Wrappers using soilDB methods for querying Soil Data Access
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+License: GPL (>= 3)
